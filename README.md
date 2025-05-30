@@ -1,5 +1,2 @@
-# Análisis del mercado de gases
-
-## Archivos
-
-
+# segmentacion
+Ejemplo de como se realiza un proceso de segmentacion
