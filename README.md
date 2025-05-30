@@ -2,13 +2,13 @@
 
 Este proyecto demuestra un flujo de trabajo completo de análisis de datos, desde la exploración inicial y preparación de los datos hasta la predicción de mora en pagos y la segmentación de clientes para una empresa simulada de distribución de gas. El proyecto se divide en tres notebooks de Jupyter principales:
 
-1.  **Exploración de Datos (`1_Exploración.ipynb`)**: Carga, inspección, limpieza y combinación de múltiples fuentes de datos para crear un DataFrame analítico consolidado.
-2.  **Primera Predicción (`2_Primera_prediccion.ipynb`)**: Uso del DataFrame analítico para construir un modelo de Machine Learning que predice la probabilidad de que una factura entre en mora.
-3.  **Segmentación (`3_Segmentacion.ipynb`)**: Aplicación de técnicas de clustering (PCA y K-Means) sobre características agregadas a nivel de cliente para identificar distintos segmentos de clientes.
+1.  **Exploración de Datos (`1. Exploracion.ipynb`)**: Carga, inspección, limpieza y combinación de múltiples fuentes de datos para crear un DataFrame analítico consolidado.
+2.  **Primera Predicción (`2. Primera prediccion.ipynb`)**: Uso del DataFrame analítico para construir un modelo de Machine Learning que predice la probabilidad de que una factura entre en mora.
+3.  **Segmentación (`3. Segmentacion.ipynb`)**: Aplicación de técnicas de clustering (PCA y K-Means) sobre características agregadas a nivel de cliente para identificar distintos segmentos de clientes.
 
 ## Contenido de los Notebooks
 
-### 1. Exploración de Datos (`1_Exploración.ipynb`)
+### 1. Exploración de Datos (`1. Exploracion.ipynb`)
 
 Este notebook cubre las etapas iniciales del análisis de datos:
 
@@ -37,7 +37,7 @@ Este notebook cubre las etapas iniciales del análisis de datos:
     * Análisis temporal básico del consumo.
 * **Conclusiones de la Exploración y Próximos Pasos**.
 
-### 2. Primera Predicción (`2_Primera_prediccion.ipynb`)
+### 2. Primera Predicción (`2. Primera prediccion.ipynb`)
 
 Este notebook se enfoca en construir un modelo para predecir la mora en los pagos:
 
@@ -73,7 +73,7 @@ Este notebook se enfoca en construir un modelo para predecir la mora en los pago
     * Limitaciones y consideraciones.
     * Sugerencias para mejoras futuras.
 
-### 3. Segmentación (`3_Segmentacion.ipynb`)
+### 3. Segmentación (`3. Segmentacion.ipynb`)
 
 Este notebook se centra en agrupar clientes en segmentos con características similares:
 
