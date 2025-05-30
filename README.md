@@ -135,6 +135,6 @@ Los datos utilizados son archivos en formato Parquet:
 * `facturas.parquet`: Detalles de las facturas.
 * `precios_gas.parquet`: Precios del gas.
 * `recaudo.parquet`: Información de pagos.
-* `df_analisis.parquet`: DataFrame consolidado y preprocesado, resultado de `1_Exploración.ipynb`.
+* `df_analisis.parquet`: DataFrame consolidado y preprocesado, resultado de `1. Exploracion.ipynb`.
 
 Estos archivos son descargados automáticamente al inicio de cada notebook relevante.
