@@ -135,6 +135,6 @@ The data used are files in Parquet format:
 * `facturas.parquet`: Invoice details.
 * `precios_gas.parquet`: Gas prices.
 * `recaudo.parquet`: Payment information.
-* `df_analisis.parquet`: Consolidated and preprocessed DataFrame, the result of `1. Exploracion.ipynb`.
+* `df_analisis.parquet`: Consolidated and preprocessed DataFrame, the result of `1. Exploration.ipynb`.
 
 These files are downloaded automatically at the beginning of each relevant notebook.
